@@ -8,7 +8,7 @@ A small Python automation tool that watches a folder and automatically organizes
 * Detects screenshots by name (`Screenshot*`) and file type (`.png`, `.jpg`)
 * Creates daily folders inside `Screenshots` automatically
 * Handles duplicates by appending `_1`, `_2`, etc.
-* Lightweight and simple — just run and forget
+* Lightweight and simple just run and forget
 
 ## Usage
 
@@ -32,7 +32,7 @@ python main.py
 
 * Windows users: some screenshot tools save files in `Pictures/Screenshots` instead of Desktop. Update the path accordingly.
 * The script handles multiple events per file gracefully, so duplicates won’t crash it.
-* Designed for learning and small-scale automation — not a production-level tool.
+* Designed for learning and small-scale automation not a production-level tool.
 
 ## License
 
